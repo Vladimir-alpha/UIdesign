@@ -15,6 +15,9 @@ class LoginFormController: UIViewController {
     @IBOutlet weak var passwordInput: UITextField!
     
     
+    // да хз как делать!!!!
+    
+    
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
