@@ -114,7 +114,7 @@
                     <connections>
                         <outlet property="loginInput" destination="bYi-pv-6Rv" id="HbM-0t-pem"/>
                         <outlet property="passwordInput" destination="AsG-l9-aPZ" id="dhp-ta-ztS"/>
-                        <outlet property="skollView" destination="kF2-1T-4iA" id="d9e-Ab-key"/>
+                        <outlet property="scrollView" destination="kF2-1T-4iA" id="d9e-Ab-key"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
